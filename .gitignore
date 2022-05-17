@@ -1,0 +1,6 @@
+# Ignore data folders
+
+/data/test
+/data/test_another
+/data/train_another
+/data/validation_another
