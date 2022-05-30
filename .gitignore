@@ -4,3 +4,4 @@
 /data/test_another
 /data/train_another
 /data/validation_another
+/dask-worker-space
